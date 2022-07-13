@@ -1,1 +1,1 @@
-I am a self-taught Python developer with an interest in Networking and related subjects.
+I am a self-taught developer with an interest in Networking and related subjects.
