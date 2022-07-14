@@ -17,5 +17,9 @@ Currently: Reverse Engineering Web APIs
     + Remembers user interaction with SQLite databases.
     + A custom command parser and executor, allowing trusted users to upload their own functions for the bot to dynamically execute without a restart.
 
+---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Cubicpath&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Cubicpath)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Cubicpath&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" width=495>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cubicpath&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width=395>
+</p>
