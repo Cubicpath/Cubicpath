@@ -3,9 +3,8 @@ I am a self-taught developer with an educational background in Information Techn
 
 Currently: Reverse Engineering Web APIs
 
-#### Learned Languages:
+#### Favorite Languages:
 + Python
-+ Java
 + C#
 + Rust
 
