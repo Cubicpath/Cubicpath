@@ -20,6 +20,6 @@ Currently: Reverse Engineering Web APIs
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Cubicpath&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cubicpath&layout=compact&theme=tokyonight&hide_border=true" alt="Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Cubicpath&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" width=410>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cubicpath&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width=400>
 </p>
