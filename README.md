@@ -5,8 +5,8 @@ Currently: Reverse Engineering Web APIs
 
 #### Favorite Languages:
 [![Python](https://img.shields.io/static/v1?label=%20&message=Python&color=0D1117&style=flat-square&logo=python&logoColor=yellow)](https://www.python.org/)
-[![Python](https://img.shields.io/static/v1?label=%20&message=C%23&color=0D1117&style=flat-square&logo=csharp&logoColor=lightblue)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![Python](https://img.shields.io/static/v1?label=%20&message=Rust&color=0D1117&style=flat-square&logo=rust&logoColor=brown)](https://www.rust-lang.org/)
+[![C#](https://img.shields.io/static/v1?label=%20&message=C%23&color=0D1117&style=flat-square&logo=csharp&logoColor=lightblue)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Rust](https://img.shields.io/static/v1?label=%20&message=Rust&color=0D1117&style=flat-square&logo=rust&logoColor=brown)](https://www.rust-lang.org/)
 
 #### Completed Projects:
 + Using [Faker](https://pypi.org/project/Faker) and [Selenium](https://www.selenium.dev/) automation to automatically fill out promotional forms.
